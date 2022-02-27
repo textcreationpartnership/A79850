@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hyporites [sic] unmasked, or, The hypocrisie of the new usurpers discovered, and their often saying, God set it on their hearts; in a few questions propounded to the inferiour officers and souldiers of the Army, whom some do now indeavour to seduce from their obedience to their masters the Parliament. Wherein the Parliament, and their General Monck are vindicated, from the aspersions cast upon them by their enemies: in which General Monck is proved to have been alwaies true to his trust, and that he hath no design to set up the King or his interest. Propounded by a lover of his countrey, and a sufferer for the good old cause.</title>
+            <author>Clarges, Thomas, Sir, d. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79850</idno>
+            <idno type="STC">Wing C4429A</idno>
+            <idno type="STC">Thomason E1005_18</idno>
+            <idno type="EEBO-CITATION">99862735</idno>
+            <idno type="PROQUEST">99862735</idno>
+            <idno type="VID">168738</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168738)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hyporites [sic] unmasked, or, The hypocrisie of the new usurpers discovered, and their often saying, God set it on their hearts; in a few questions propounded to the inferiour officers and souldiers of the Army, whom some do now indeavour to seduce from their obedience to their masters the Parliament. Wherein the Parliament, and their General Monck are vindicated, from the aspersions cast upon them by their enemies: in which General Monck is proved to have been alwaies true to his trust, and that he hath no design to set up the King or his interest. Propounded by a lover of his countrey, and a sufferer for the good old cause.</title>
+                  <author>Clarges, Thomas, Sir, d. 1695.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Goodman Constant, and are to be sold at the sign of the Faithful Souldier, right against Turn-Coat-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir Thomas Clarges (Wing).</note>
+                  <note>Variant: "Hypocrites" in title.</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168738:1" rendition="simple:additions"/>
+            <p>Hyporites Unmasked, OR, THE HYPOCRISIE OF The New Vſurpers diſcovered, and their often ſaying. God ſet it on their Hearts; In a few Queſtions propounded to the Inferiour Officers and Soul<g ref="char:EOLhyphen"/>diers of the Army, whom ſome do now indeavour to ſeduce from their obedience to their Maſters the PARLIAMENT.</p>
+            <p>Wherein the Parliament, and their General MONCK are Vindicated, from the aſperſions caſt upon them by their Enemies: in which General <hi>Monck</hi> is proved to have been alwaies true to his Truſt, And that he hath no Deſign to ſet up the KING or his Intereſt.</p>
+            <p>
+               <hi>Propounded by a Lover of his Countrey, and a ſufferer for the</hi> Good Old Cauſe.</p>
+            <q>
+               <bibl>
+                  <hi>ISAY 8.12.</hi>
+               </bibl>
+               <p>Say not a confederacy with them with whom theſe men ſay a confe<g ref="char:EOLhyphen"/>deracy, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Goodman Constant,</hi> and are to be ſold at the Sign of the <hi>Faithful Souldier,</hi> right againſt <hi>Turn-Coat-Hall,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168738:2"/>
+            <pb n="1" facs="tcp:168738:2"/>
+            <head>Hypocrites unmasked.</head>
+            <p>WHether it is not Blaſphemy in a high degree, to attribute to God the contradictious imaginations which ariſe in mens minds through the Temptations of Satan, working with their ambitious and covitious deſires, to ſay that God has ſet ſuch things upon their hearts, though contrary to the written word of of God, and Principles of Law and Reaſon, the only guides of all ſo<g ref="char:EOLhyphen"/>ber Engliſh-men in all actings both as men and Chriſtians? And whe<g ref="char:EOLhyphen"/>ther this has not been the conſtant courſe of ſome Enthuſiaſts, or pre<g ref="char:EOLhyphen"/>tenders to immediate inſpiration in the Army, and eſpecially the ring<g ref="char:EOLhyphen"/>leaders of this late Rebellion againſt the Parliament, <hi>viz. Lambert, Packer, Creed, &amp;c.</hi> For did they not ſay in the year 1653, when they met at the Cock-pit to ſeek God, That he had ſet it upon their hearts to diſſolve (as they call'd it) the long Parliament; and in the ſame year, they pretended that God had ſet it upon their hearts to call the little <hi>Juncto,</hi> which call'd it ſelf a Parliament; and in the latter end of the ſame year, they pretended to ſeek God again, and then they ſaid, God had ſet it upon their hearts for to put the Government of the Nation upon their General <hi>Oliver Crumwel,</hi> whom they called a Protector by an Inſtrument of Government made by themſelves, as <hi>Oliver</hi> himſelf upbraided them, eight of them having the making of the ſaid Inſtrument, <hi>Lambert</hi> ſome time after carrying the Sword before him at the Inſtalments; &amp; they met in the year 54 at St. <hi>Jameſes,</hi> &amp; told us they had 4 things ſet upon their hearts, as the Fruit of their ſeeking God three daies, one of which was the neceſſity of Succeſſive yearly Parliaments; But finding themſelves pretty warm, and well at caſe till 1659, at which time <hi>Richard's</hi> Parliament began to queſtion their good Penny-worths that they had purchaſed, and they ſaw their Inte<g ref="char:EOLhyphen"/>reſt began to decay, and ſome of them like to be queſtioned for their Arbitrary and Tyrannical Actions, done in their Protectors time, then they ſought God again, as they ſaid, and repented, and took ſhame to themſelves, and then God ſet it upon their hearts (as they ſaid, to in<g ref="char:EOLhyphen"/>vite all the Members of the Parliament that were interrupted the 20th of <hi>April</hi> 53 to ſit again, who they averr in their invitation, <hi>were the
+<pb n="2" facs="tcp:168738:3"/>Aſſerters of the Good Old Cauſe, in whoſe hands God made it to pro<g ref="char:EOLhyphen"/>ſper, and that if they would be pleaſed to return to the diicharge of their Trust committed to them, they would stand by them, according to their duty, that they might ſit in ſafety.</hi>
+            </p>
+            <p>After the victory which God gave the Parliaments Army (as <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> in his Letters called them) over Sir <hi>Geo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge Booth,</hi> by taking away the Hearts and Reſolutions of the Enemys, ſo that the conteſt was ſo ſmall, and the oppoſition of <hi>Booth's</hi> party ſo weak, that not above two men (that ever we heard of) were kill'd on the Parliaments party, ſo that the victory ſeemed rather from Heaven then from men; After this they ſay, they ſought God at <hi>Darby,</hi> what they ſhould do to im<g ref="char:EOLhyphen"/>prove that victory, and then they ſay, he ſet it upon their hearts to of<g ref="char:EOLhyphen"/>fer thoſe Propoſals to the Parliament which were ſent up from the Northern Brigade to <hi>Fleetwood,</hi> which (when the Parliament having knowledge of it) did not well reſcent; but ſome Officers or <hi>London</hi> put the ſaid Propoſals into another form, and preſented it to the Par<g ref="char:EOLhyphen"/>liament, which whilſt it was under conſideration, they again pretended that God ſet it upon their hearts, that a Letter ſubſcribed by 9 Grand Officers of the Parliaments Army, ſhould be ſent with a Copy of the Propoſals to each Regiment in the three Nations, inviting all the Soul<g ref="char:EOLhyphen"/>diers to ſubſcribe them, that ſo, if God did not ſet it upon the Parlia<g ref="char:EOLhyphen"/>ments hearts, to give them an Anſwer ſuitable to their ambitious de<g ref="char:EOLhyphen"/>ſign, the whole Army might be by them drawn in, and engaged to force the Parliament. Whereupon the Parliament, having the Letter aforeſaid brought into the Houſe, to put a ſtop to this dangerous de<g ref="char:EOLhyphen"/>ſign, Voted the Commiſſions of thoſe 9 Subſcribers void; Whereup<g ref="char:EOLhyphen"/>on they pretended, that God ſet it upon their hearts to interrupt the Parliament again. And becauſe they would put all good people out of hopes that ever there ſhould be a reconciliation betwixt them and the Parliament, (which was then propounded by many well-affected perſons in and about the City of <hi>London,</hi> as the only expedient in their underſtanding to prevent more blood-ſhed) they met about the 15 of <hi>October</hi> in <hi>VVhite-hall</hi> Chappel, and repented that they had invited this Parliament to ſit again, and of all their former Repentances. Thus attributing all their Contradictions, hypocritical Actions, Re<g ref="char:EOLhyphen"/>bellions, Self-ſeekings, to the immediate Inſpiration of the God of Righteouſneſs, Truth, Conſtancy, Order, with whom there is no ſhaddow, of turning or change.</p>
+            <pb n="3" facs="tcp:168738:3"/>
+            <p>But whether it is not the God of this World, the Prine that rules in the Aire of Covetous and Ambitious minds, that promſes his Wotſhip<g ref="char:EOLhyphen"/>pers the Kingdomes of this world, and the Pompes and Glories thereof, that has ſet all theſe contradictuios things upon the Officers hearts, let all ſober Chriſtians judge. And it were well if theſe late Officers of the Army and their Accomplices, would for their own Souls ſake lay to heart ere it be too late, and ſeriouſly conſider, that <hi>God will not be mocked,</hi> nor the people deluded, as the Scripture of God aſſures, and all the reaſon in the world confirmes.</p>
+            <p>Whether it is not the moſt rediculous non-ſence that ever was heard of, that they who in their repreſentations of <hi>October</hi> the 5th, confeſſed the Army was the Parliaments Army, and themſelves their faithfull Servants, and in their Propoſals of <hi>April</hi> the 15th, called them the ſupreame Authority of the Nation, and upon that account took their Commiſſions from them, that theſe men I ſay, ſhould in their late Pamphlet call'd the <hi>Armies Declaration</hi> (the greateſt abuſe that ever was offered to the Army, that a few Officers ſhould put out things of ſuch nature in the name of the honeſt Soldiers of the three Nations) make it their chiefe charge againſt their Maſter the Parlia<g ref="char:EOLhyphen"/>ment, that they would have made the ſaid Officers of the Army ſubject to them; as if it were a crime to expect ſubjection from their hired Servants.</p>
+            <p>Whether the Officers of the Army: <hi>(viz)</hi> thoſe lately Caſhired, and their accomplices calling all their Papers the Papers of the Army, and preſuming the whole Soldiery of the three Nations to be engaged in all their Ambitious Actions and quarrells doth not plainly declare that the ſaid great Officers account the inferior Officers and Soldiers to be their menial Servants, Lackeys, and Gromes, to whom they give Houſing, Food, and Cloathing, whereby they are oblig'd implicitly to eſpouſe all their Lords and Maſters quarrells, as the manner of Servants is to do right or wrong.</p>
+            <p>And whether theſe great Officers thus thinking, do not abuſe them<g ref="char:EOLhyphen"/>ſelves and their Brethren the inferior Officers and Soldiers, who are only Servants to the Common-wealth and their Parliament, from whom they have their Pay, and from whom they may expect lawfull preferment.</p>
+            <p>Whether it is not a thing Incongreuous to ſay, and ſcarce Imagina<g ref="char:EOLhyphen"/>ble to think that Gen. <hi>Monck</hi> ſhould bring in the King, or be for his Intereſt, as ſome would maliciouſly Inſinuate, ſeeing he hath alwayes
+<pb n="4" facs="tcp:168738:4"/>as well as now been true to the truſt Committed to him, and never was ſo forward to ſet up a Single Perſon as theſe men which have now Interrupted the Parliament in <hi>Octob.</hi> 12 59. who were the men which contrary to all Vowes, Covenants, Promiſes and Ingagements, did ſet up the late Tyrant <hi>Oliver Cromwell,</hi> and his Son <hi>Richard.</hi> And whe<g ref="char:EOLhyphen"/>ther Gen. <hi>Monck</hi> hath not given a ſufficient teſtimony to all the World, that he is againſt the Kings Intereſt, for when Sir <hi>George Booths</hi> party was up, he cauſed all the Lords and great men in <hi>Scotland</hi> to take an Oath, not to ſtir for, or in the behalf of the King, and hath now againe Ingaged them to ſtand by the Parliament.</p>
+            <p>And is it not great Folly and Madneſs to think that theſe nine men which were once Officers of the Army, and their Confederates who have now violently thruſt out the Parliament, ſhould reforme our Lawes, and take away Tithes, or do us any good who have already laid violent hands upon that fundamentall Law, which of all other is the moſt eaſe and greateſt ſecurity to the people, that is to ſay the Act againe aſſerted or made by this Parliament, <hi>Octob.</hi> 11th, 59. <hi>(viz)</hi> that no money ſhould be Levied but by conſent in Parliament, which indeed is not a new Law, but that old Fundamentall Law which all our Parliaments have aſſerted and the late King in the Petition of Right confirmed, and all our Fore-Fathers have challenged it as their Indube<g ref="char:EOLhyphen"/>table Right, that no money ſhould be Levied on them upon any pre<g ref="char:EOLhyphen"/>tence whatſoever, without conſent in Parliament, by which Law, and by no other meanes our Eſtates are ſecured from all Tyrants; And no King or Single Perſon though the greateſt Tyrant that ever was ſet over us durſt preſume to violate that old ſtanding Law, and hence it was that <hi>Cromwell</hi> (though he and his Confederates were in their hearts againſt Parliaments) yet they was fain to call pretended Parliaments to get them money of the people, and indeed riches were an Intollerable burthen, if the Poſſeſſors were not the Maſter thereof, and allow any in ſupream Authority but the Power or Right to take a penny without conſent in Parliament, and they may if they pleaſe take a pound and by the ſame rule ten pounds, &amp; ſo all that any man hath and the people have no way to releive themſelves, but by the Sword of Military Juſtice.</p>
+            <p>But had theſe nine men which the Parliament voted out of Commiſſion, and theſe their Confederates that are in Commiſſion ſtill in the Army power to Abolliſh Lawes, and a mind to do the people any good, they would firſt have Abolliſhed thoſe Lawes which were grievous to the people, the Law by which the Lords
+<pb n="5" facs="tcp:168738:4"/>of Manners vex the poor people of <hi>England,</hi> and the Law for Exciſe and new Impoſt, and ſuch other Lawes, by which the Perſons and Eſtates of men are prejudiced, but inſtead of ſo doing they have pretended to Aboliſh and have declared that Law voyd, by which the peoples purſ is eaſed, and there Eſtates ſecured from being at the Wills of Uſurpers. Oh blind Souls which cannot ſee that theſe men do but flatter us with good words, and fair promiſes of good things, and in the mean time they do us all the evil they can. But one thing is very obſervable in theſe men, when they declare againſt our good Lawes they are peremp<g ref="char:EOLhyphen"/>tory, but when they talk of doing us good, then its doubtfull whether they can or not; and therefore they tell they will do their indeavour to reform the Law; ſuppoſe they ſhould preſume to give Lawes that might ſeem good, yet ſhould we accept of any thing at their hands, we ſhould therein make our ſelves ſlaves for ever. Some ſay that if we receive any thing of the Devil, though it be but the worth of a pin, we make our ſelves his ſlaves forever; Whether that be true or not yet I am ſure, if we ſhould receive any Lawes of theſe men, or own them for our Maſters once, we ſhould therein make our ſelves ſlaves to them for ever.</p>
+            <p>Whether the Warr with the King and the conteſt which the Par<g ref="char:EOLhyphen"/>liament had with Sir <hi>George Booth</hi> and his party was upon any other account then this that they denyed the Parliament to be the Su<g ref="char:EOLhyphen"/>preame Authority of the Nation, and that the Parliament only had the diſpoſe of the Militia, and of the Purſs of the Nation, and that none had power to make or Aboliſh Lawes, but the Supreame Authority of the Nation <hi>(viz)</hi> the Parliament.</p>
+            <p>In all which Wars theſe men and their Confederates ſerved the Parliament in Aſſerting theſe things; And do they not now ſtand con<g ref="char:EOLhyphen"/>demned in their own Conſciences whilſt they do the contraty things, According to that of the Apoſtle, <hi>Rom.</hi> 2.1. therefore you are In-ex<g ref="char:EOLhyphen"/>cuſable O men, which have fought againſt the King and his party, Sr. <hi>George Booth</hi> and his party, and yet do the ſame things your ſelves; dare you ſlay thouſands, ſire Townes, deſtroy Familyes, and all to aſ<g ref="char:EOLhyphen"/>ſert the Parliaments power, to deſpoſe of the Militia, and to make and Aboliſh Lawes, and da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you now fight againſt the Parliament, ſure the Judgment of God according to truth is againſt you which commit ſuch things, <hi>Rom.</hi> 2.2. but I know you are Scripture proof, who have
+<pb n="6" facs="tcp:168738:5" rendition="simple:additions"/>forſoken the Laws of God and Reaſon, Nature and Nations, and fol<g ref="char:EOLhyphen"/>low the ſudden raſh figments of your own brains, and call it the lea<g ref="char:EOLhyphen"/>dings of Gods providence, becauſe you had not half an hours time to conſider, and reſolve upon the Treaſon and rebellion committed a<g ref="char:EOLhyphen"/>gainſt the Parliament, <hi>Oct.</hi> 13.59. as if Traytors and Rebels were the more to be commended, becauſe they do their buſineſs quickly. See your Letter <hi>Oct.</hi> 29. to General <hi>Monk,</hi> and the Officers in <hi>Scotland,</hi> 2. <hi>Papraph.</hi> 3.4. <hi>Laines.</hi>
+            </p>
+            <p>Whether it's not great madneſs and folly to believe the promiſes of theſe men now, whoſe preſent actions are contrary to all the Promi<g ref="char:EOLhyphen"/>ſes, Engagements, Oaths and Declarations that ever they made in their lives; yea contrary to the Solemn Promiſes made when they received their Commiſſions of the Parliament.</p>
+            <p>Whether its ſafe for the Commiſſioners of the Fxciſe or Cuſtom, or any Treaſures of the Nation to part with any mony to <hi>Lambert,</hi> and his party, ſeeing all men know they have not power to demand a penny, or authority to command on man, their Commiſſions being taken away by Authority of Parliament; yea by the ſame authority of Parliament, which gave them and all other men the Authority by which they act as ſervants of the Common-wealth.</p>
+            <p>Good people keep your Money, and then no body will care for, (or ſtrive) to be Lords over you.</p>
+            <p>Whether ſuch Commiſſioners of Exciſe and Cuſtom, will not be in as much danger as <hi>Packer,</hi> and the reſt of them that were partys in that conſpiracy, and to ſuffer as Rebels and Traytors or at leaſt to repay the mony out of their own Eſtates again, which they pay at their com<g ref="char:EOLhyphen"/>mand?</p>
+            <p>Why the Queries ſigned by <hi>VVill. Clark</hi> Secretary, and the other Papers, as the Declarations and Letters from Gen. <hi>Monck</hi> may not be ſeen and underſtood by the honeſt people in the City, that if they be good we may adhere unto them, if bad we may bear our Teſtimony a<g ref="char:EOLhyphen"/>gainſt them?</p>
+            <p>And whether the Lieutenant of the Tower will not fall under the ſame condemnation of high Treaſon, if he ſhal furniſh them with Arms and Amunition?</p>
+            <p>Thus have we diſcovered by theſe Queries, the ſpirit of the men of this age, who have preſumed to put the examples of heathen Soul<g ref="char:EOLhyphen"/>diers in rebellion, And yet pretend to be Chriſtians in Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
